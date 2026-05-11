@@ -11,7 +11,7 @@ BioTaTo represents a breakthrough in bio-interface technology. This proprietary 
 
 ## 🔬 How It Works (Concept Overview)
 <p align="center">
-  <img src="assets/biotato1.png" alt="Technology Process" width="100%">
+  <img src="assets/biotato.png" alt="Technology Process" width="100%">
 </p>
 
 ### Key Technical Pillars:
