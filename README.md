@@ -1,8 +1,8 @@
-<img width="1768" height="992" alt="image" src="https://github.com/user-attachments/assets/2b5f80d1-6605-4017-a6d1-208ff2b17dcb" /># 🧬 BioTaTo: Advanced Smart Pigment Technology
+# 🧬 BioTaTo: Advanced Smart Pigment Technology
 **Confidential IP - Available for Commercial Acquisition**
 
 <p align="center">
-  <img src="assets/produits.png" alt="BioTaTo Natural Header" width="100%">
+  <img src="assets/biotato.png" alt="BioTaTo Natural Header" width="100%">
 </p>
 
 BioTaTo represents a breakthrough in bio-interface technology. This proprietary system offers a safe, reversible, and magnetic pigment solution for medical and cosmetic applications.
@@ -11,7 +11,7 @@ BioTaTo represents a breakthrough in bio-interface technology. This proprietary 
 
 ## 🔬 How It Works (Concept Overview)
 <p align="center">
-  <img src="assets/biotato.png" alt="Technology Process" width="100%">
+  <img src="assets/biotato1.png" alt="Technology Process" width="100%">
 </p>
 
 ### Key Technical Pillars:
@@ -23,7 +23,7 @@ BioTaTo represents a breakthrough in bio-interface technology. This proprietary 
 
 ## 📦 Commercial Readiness
 <p align="center">
-  <img src="assets/biotato1.png" alt="Product Packaging" width="100%">
+  <img src="assets/produits.png" alt="Product Packaging" width="100%">
 </p>
 
 ### 💰 Business Inquiries & Acquisition
