@@ -1,28 +1,38 @@
 # 🧬 BioTaTo: Advanced Smart Pigment Technology
 **Confidential IP - Available for Commercial Acquisition**
 
-BioTaTo represents a breakthrough in bio-interface technology. This proprietary system offers a safe, reversible, and magnetic pigment solution for medical and cosmetic applications.
+<p align="center">
+  <img src="assets/biotato.png" alt="BioTaTo Natural Header" width="100%">
+</p>
 
-### 🛡️ Intellectual Property Protection
-To prevent unauthorized cloning and to protect the commercial value of this invention, the specific chemical formulations and biological synthesis protocols are **strictly confidential**.
+BioTaTo représente une percée dans la technologie des bio-interfaces. Ce système exclusif offre une solution de pigment magnétique, sûre et réversible pour des applications médicales et cosmétiques.
 
-### 🛠️ Key Technical Features (Abstract)
-- **Safe Encapsulation:** Uses a proprietary bio-matrix to prevent skin irritation.
-- **Dynamic Response:** Magnetic properties allow for non-invasive interaction.
-- **Controlled Reversal:** Can be fully extracted using a specific enzymatic activator.
+---
 
-### 💰 Business Inquiries & Acquisition
-The full **Technical Dossier**, including source codes and specific formulations, is available for purchase. 
+## 🔬 Aperçu du Concept (How It Works)
+<p align="center">
+  <img src="assets/biotato1.png" alt="Technology Process" width="100%">
+</p>
 
-**Contact for serious inquiries:**
+### Piliers Techniques Clés :
+* **Encapsulation Sûre :** Utilisation d'une bio-matrice exclusive pour prévenir toute irritation cutanée.
+* **Réponse Dynamique :** Les propriétés magnétiques permettent une interaction non invasive.
+* **Inversion Contrôlée :** Peut être entièrement extrait à l'aide d'un activateur enzymatique spécifique.
+
+---
+
+## 📦 Produit Commercial & État de Préparation
+<p align="center">
+  <img src="assets/produits.png" alt="Product Packaging" width="100%">
+</p>
+
+### 💰 Demandes Commerciales & Acquisition
+Le **Dossier Technique complet**, incluant les protocoles de simulation et les formulations spécifiques, est disponible pour acquisition.
+
+**Contact pour les demandes sérieuses :**
 📧 **infosvusial@gmail.com**
 
-*Note: Technical details will only be disclosed to verified parties under a Non-Disclosure Agreement (NDA).*
-## 💻 Technical Stack & Simulation
-This project includes a **proprietary simulation engine** built for:
-* **Pigment Interaction:** Real-time monitoring of bio-magnetic ink.
-* **Safety Protocols:** Automated bio-compatibility checks.
+*Note : Les détails techniques ne seront divulgués qu'aux parties vérifiées sous un accord de confidentialité (NDA).*
 
-> [!IMPORTANT]
-> The core source code and the **Lunarosa Method** for AI-humanization are hosted in a private repository to prevent unauthorized cloning. 
-> Access is granted only to authorized partners.
+---
+*© 2026 BioTaTo Engineering | Human-Centric AI Engineering*
