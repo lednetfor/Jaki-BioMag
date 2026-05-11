@@ -1,4 +1,3 @@
-
 # 🧬 BioTaTo: Advanced Smart Pigment Technology
 **Confidential IP - Available for Commercial Acquisition**
 
