@@ -18,3 +18,11 @@ The full **Technical Dossier**, including source codes and specific formulations
 📧 **infosvusial@gmail.com**
 
 *Note: Technical details will only be disclosed to verified parties under a Non-Disclosure Agreement (NDA).*
+## 💻 Technical Stack & Simulation
+This project includes a **proprietary simulation engine** built for:
+* **Pigment Interaction:** Real-time monitoring of bio-magnetic ink.
+* **Safety Protocols:** Automated bio-compatibility checks.
+
+> [!IMPORTANT]
+> The core source code and the **Lunarosa Method** for AI-humanization are hosted in a private repository to prevent unauthorized cloning. 
+> Access is granted only to authorized partners.
