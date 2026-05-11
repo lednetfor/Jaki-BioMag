@@ -2,7 +2,7 @@
 **Confidential IP - Available for Commercial Acquisition**
 
 <p align="center">
-  <img src="assets/biotato.png" alt="BioTaTo Natural Header" width="100%">
+  <img src="assets/produits.png" alt="BioTaTo Natural Header" width="100%">
 </p>
 
 BioTaTo represents a breakthrough in bio-interface technology. This proprietary system offers a safe, reversible, and magnetic pigment solution for medical and cosmetic applications.
