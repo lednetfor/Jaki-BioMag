@@ -1,38 +1,38 @@
-# 🧬 BioTaTo: Advanced Smart Pigment Technology
+<img width="1768" height="992" alt="image" src="https://github.com/user-attachments/assets/2b5f80d1-6605-4017-a6d1-208ff2b17dcb" /># 🧬 BioTaTo: Advanced Smart Pigment Technology
 **Confidential IP - Available for Commercial Acquisition**
 
 <p align="center">
-  <img src="assets/produits.png" alt="BioTaTo Natural Header" width="100%">
+  <img src="assets/biotato.png" alt="BioTaTo Natural Header" width="100%">
 </p>
 
-BioTaTo représente une percée dans la technologie des bio-interfaces. Ce système exclusif offre une solution de pigment magnétique, sûre et réversible pour des applications médicales et cosmétiques.
+BioTaTo represents a breakthrough in bio-interface technology. This proprietary system offers a safe, reversible, and magnetic pigment solution for medical and cosmetic applications.
 
 ---
 
-## 🔬 Aperçu du Concept (How It Works)
+## 🔬 How It Works (Concept Overview)
 <p align="center">
-  <img src="assets/biotato.png" alt="Technology Process" width="100%">
+  <img src="assets/biotato1.png" alt="Technology Process" width="100%">
 </p>
 
-### Piliers Techniques Clés :
-* **Encapsulation Sûre :** Utilisation d'une bio-matrice exclusive pour prévenir toute irritation cutanée.
-* **Réponse Dynamique :** Les propriétés magnétiques permettent une interaction non invasive.
-* **Inversion Contrôlée :** Peut être entièrement extrait à l'aide d'un activateur enzymatique spécifique.
+### Key Technical Pillars:
+* **Safe Encapsulation:** Uses a proprietary bio-matrix to prevent skin irritation.
+* **Dynamic Response:** Magnetic properties allow for non-invasive interaction.
+* **Controlled Reversal:** Can be fully extracted using a specific enzymatic activator.
 
 ---
 
-## 📦 Produit Commercial & État de Préparation
+## 📦 Commercial Readiness
 <p align="center">
   <img src="assets/biotato1.png" alt="Product Packaging" width="100%">
 </p>
 
-### 💰 Demandes Commerciales & Acquisition
-Le **Dossier Technique complet**, incluant les protocoles de simulation et les formulations spécifiques, est disponible pour acquisition.
+### 💰 Business Inquiries & Acquisition
+The full **Technical Dossier**, including source codes and specific formulations, is available for purchase.
 
-**Contact pour les demandes sérieuses :**
+**Contact for serious inquiries:**
 📧 **infosvusial@gmail.com**
 
-*Note : Les détails techniques ne seront divulgués qu'aux parties vérifiées sous un accord de confidentialité (NDA).*
+*Note: Technical details will only be disclosed to verified parties under a Non-Disclosure Agreement (NDA).*
 
 ---
 *© 2026 BioTaTo Engineering | Human-Centric AI Engineering*
